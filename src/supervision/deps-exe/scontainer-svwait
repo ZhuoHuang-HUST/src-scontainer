@@ -1,0 +1,6 @@
+s6_svlisten_loop.o
+${LIBS6}
+-lskarnet
+${SOCKET_LIB}
+${SYSCLOCK_LIB}
+${SPAWN_LIB}

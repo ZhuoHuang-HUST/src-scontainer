@@ -1,0 +1,6 @@
+${LIBS6}
+-lexecline
+-lskarnet
+${SOCKET_LIB}
+${SYSCLOCK_LIB}
+${SPAWN_LIB}

@@ -1,0 +1,8 @@
+s6_svlisten_signal_handler.o
+s6_svlisten_loop.o
+${LIBS6}
+-lexecline
+-lskarnet
+${SOCKET_LIB}
+${SYSCLOCK_LIB}
+${SPAWN_LIB}

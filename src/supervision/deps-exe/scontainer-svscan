@@ -1,0 +1,4 @@
+${LIBS6}
+-lskarnet
+${SYSCLOCK_LIB}
+${SPAWN_LIB}

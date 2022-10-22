@@ -1,0 +1,3 @@
+-lskarnet
+${SYSCLOCK_LIB}
+${SPAWN_LIB}
